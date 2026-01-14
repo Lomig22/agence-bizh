@@ -1,0 +1,17 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon/Symbol -->
+  <circle cx="30" cy="30" r="22" fill="#2563eb" opacity="0.1"/>
+  <path d="M30 10 L42 24 L30 30 L18 24 Z" fill="#2563eb"/>
+  <path d="M18 24 L30 30 L30 42 L18 36 Z" fill="#1e40af"/>
+  <path d="M30 30 L42 24 L42 36 L30 42 Z" fill="#3b82f6"/>
+  
+  <!-- Text: BIZH -->
+  <text x="60" y="40" font-family="Inter, sans-serif" font-size="28" font-weight="700" fill="#1f2937">
+    BIZH
+  </text>
+  
+  <!-- Tagline -->
+  <text x="60" y="52" font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6b7280" letter-spacing="0.5">
+    AGENCE COMMUNICATION
+  </text>
+</svg>
